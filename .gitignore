@@ -1,0 +1,11 @@
+dist/
+imports/*
+!imports/__init__.py
+.terraform
+cdktf.out
+cdktf.log
+*terraform.*.tfstate*
+cdktf.out/*
+3.0
+9.0.52
+*tfstate*
